@@ -1533,4 +1533,8 @@
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
     }
+    {
+      "name": "Worplacegadgets.com",
+      "colors": ["#FD1919", "#D5ED0A", "#15ED3D"," #209DED80","#B30DFD", "#ED2AC950"]
+    }
 ]
